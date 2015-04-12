@@ -1,0 +1,14 @@
+* Chorale:  371chorales/chor043.krn
+[SKIP] Voices don't have the same size: [87, 79, 76, 76]
+* Chorale:  371chorales/chor133.krn
+[SKIP] Voices don't have the same size: [250, 248, 248, 248]
+* Chorale:  371chorales/chor143.krn
+[SKIP] Voices don't have the same size: [114, 114, 113, 114]
+* Chorale:  371chorales/chor280.krn
+[SKIP] Voices don't have the same size: [133, 132, 133, 132]
+* Chorale:  371chorales/chor283.krn
+[SKIP] Voices don't have the same size: [114, 110, 106, 103]
+* Chorale:  371chorales/chor316.krn
+[SKIP] Voices don't have the same size: [59, 57, 56, 55]
+* Chorale:  371chorales/chor358.krn
+[SKIP] Voices don't have the same size: [68, 64, 66, 68]
